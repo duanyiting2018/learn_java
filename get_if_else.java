@@ -6,7 +6,6 @@ public class get_if_else {
         int y=64;
         int a=76;
         int b=39;
-        //two if
         if(x>y)
         {
             System.out.println("48大于64");
