@@ -18,7 +18,7 @@ public class class_demo5 {
         change(person);//等价于Person temp=person;
         person.say();
     }
-    private static void change(Person5 temp)
+    public static void change(Person5 temp)
     {
         temp.age=33;
     }
