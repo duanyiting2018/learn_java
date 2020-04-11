@@ -20,7 +20,7 @@ class Person_a
 {
     private String name;
     private int age;
-    public Person_a(Message msg,int tempAge)//定义双参构造方法
+    public Person_a(Message msg,int tempAge)//定义双参数构造方法
     {
         name=msg.getInfo();
         age=tempAge;
