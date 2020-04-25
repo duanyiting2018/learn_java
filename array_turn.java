@@ -35,7 +35,7 @@ public class array_turn {
 
 //------------注意,两个代码不能放在一起运行!!!-------------------
 //二维数组转置
-package duanyiting;
+/*package duanyiting;
 
 class ArrayUtil4
 {
@@ -69,3 +69,4 @@ public class array_turn {
         ArrayUtil4.printArray(data2);
     }
 }
+*/
