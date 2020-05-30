@@ -1,6 +1,6 @@
 package duanyiting;
 
-public class string_spilt {
+public class string_split1 {
     public static void main(String[] args) {
         String str="mldn,java,yootk,duanyiting,dyt";
         String result[]=str.split(",");
