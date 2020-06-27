@@ -21,15 +21,15 @@ class Person__4
         this.age = age;
     }
 }
-class Student extends Person__4
+class Student1 extends Person__4
 {
 
 }
 public class class_extends1 {
     public static void main(String[] args) {
-        Student student=new Student();
-        student.setName("张三");
-        student.setAge(19);
-        System.out.println("姓名:"+student.getName()+" "+"年龄:"+student.getAge());
+        Student1 Student1=new Student1();
+        Student1.setName("张三");
+        Student1.setAge(19);
+        System.out.println("姓名:"+Student1.getName()+" "+"年龄:"+Student1.getAge());
     }
 }
