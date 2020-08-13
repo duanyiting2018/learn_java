@@ -31,7 +31,7 @@ class EatProxy implements Ieat1
     }
     public void clear()
     {
-        System.out.println("【代理主题】3：收拾食材");
+        System.out.println("【代理主题】3：清理食材");
     }
 }
 public class class_interface7 {
