@@ -10,6 +10,9 @@ class Book
         count++;
         System.out.println("第"+count+"本书已创建");
     }
+
+    public void get() {
+    }
 }
 public class class_m {
     public static void main(String[] args) {
