@@ -1,4 +1,3 @@
-package duanyiting;
 import java.util.function.*;
 public class insideclass_yinyong6 {
     public static void main(String[] args) {
