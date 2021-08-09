@@ -1,0 +1,4 @@
+package conbine_pattern.test;
+
+public class conbine_test {
+}
